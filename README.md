@@ -1,6 +1,6 @@
 # d2oe
 
-Neuronal data for D2-OE mouse model of schizophrenia according to Cazorla *et al* (2012). Digital reconstructions of the striatal neurons from Hjorth *et al* (2020) were adopted for the wild-type (control) phenotype. Dendritic morphology of the striatal projection neurons was reduced to mimic the degeneration described by Cazorla *et al* (2012) using the Python module `treem` v1.1.0 (<https://github.com/a1eko/treem>).
+Neuronal data for D2-OE mouse model of schizophrenia according to Cazorla *et al* 2012. Digital reconstructions of the striatal neurons from Hjorth *et al* 2020 were adopted for the wild-type (`morphology/control/`) phenotype. Dendritic morphology of the striatal projection neurons was reduced to mimic progressive neurodegeneration (`morphology/d2oe*/`) using the Python module `treem` v1.1.0 (<https://github.com/a1eko/treem>).
 
 ## References
 
