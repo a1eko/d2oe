@@ -4,7 +4,8 @@ Neuronal data for D2-OE mouse model of schizophrenia according to Cazorla *et al
 
 ## Funding
 
-TBD
+The study was supported by the Swedish Research Council (VR-M-2020-01652), Swedish e-Science Research Centre (SeRC), Science for Life Lab, EU/Horizon 2020 no. 945539 (HBP SGA3) and No. 101147319 (EBRAINS 2.0 Project), European Union's Research and Innovation Program Horizon Europe under grant agreement No 101137289 (the Virtual Brain Twin Project), and KTH Digital Futures.
+Simulations were also performed on resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS) at PDC KTH partially funded by the Swedish Research Council through grant agreement no. 2022-06725. 
 
 ## References
 
