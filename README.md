@@ -7,8 +7,10 @@ directory `morphology/control/`. Dendritic morphology of the striatal
 projection neurons was reduced to mimic progressive neurodegeneration,
 as in `morphology/d2oe*/` for stages 0 through 20, using the Python
 module [`treem`](<https://github.com/a1eko/treem>) v1.1.0, DOI:
-[10.5281/zenodo.8265703](https://doi.org/10.5281/zenodo.8265703). Program
-code for morphology processing can be found in the `scripts/` directory.
+[10.5281/zenodo.8265703](https://doi.org/10.5281/zenodo.8265703).
+The algorithm of the degeneration is described in Carannante *et al.*,
+2024.  Program code for morphology processing can be found in the
+`scripts/` directory.
 
 ## Funding
 
@@ -34,3 +36,9 @@ Johansson Y, Tokarska A, Dorst MC, Suryanarayana SM, Silberberg G,
 Hellgren Kotaleski J, Grillner S (2020) The microcircuits of striatum
 in silico. *Proc Natl Acad Sci U S A.* 117(17):9554-9565. DOI:
 [10.1073/pnas.2000671117](https://doi.org/10.1073/pnas.2000671117).
+
+* Carannante I, Scolamiero M, Hjorth JJJ, Kozlov A, Bekkouche B,
+Guo L, Kumar A, Chacholski W, Hellgren Kotaleski J (2024) The
+impact of Parkinson's disease on striatal network connectivity and
+cortico-striatal drive: an in-silico study. *Network Neuroscience*.
+DOI: [10.1162/netn_a_00394](https://doi.org/10.1162/netn_a_00394).
