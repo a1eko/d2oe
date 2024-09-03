@@ -1,0 +1,12 @@
+{
+    "network_path": "my_network",
+    "snudda_data": "../morphology/d2oe0",
+
+    "random_seed": {
+        "master_seed": 1234   
+    },
+    
+    "regions": {
+        "Striatum" : "striatum.json"
+    }   
+}

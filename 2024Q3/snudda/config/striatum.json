@@ -1,0 +1,16 @@
+{
+    "Striatum": {
+	"num_neurons": 10000,
+	"volume": {
+	    "mesh_file": "config/mesh/mesh-10000.obj",
+	    "d_min": 1.5e-5,
+	    "num_putative_points": 100000,
+	    "random_seed": 123456
+	},
+	"neurons": ["neurons/dspn.json",
+    		    "neurons/ispn.json",
+    		    "neurons/fs.json",
+    		    "neurons/lts.json"],
+	"connectivity": "striatum-connectivity.json"
+    }
+}

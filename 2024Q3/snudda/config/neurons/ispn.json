@@ -1,0 +1,50 @@
+{
+    "iSPN": {
+	"neuron_path": {
+
+	    "iSPN_0": "$SNUDDA_DATA/ispn/0/",
+	    "iSPN_1": "$SNUDDA_DATA/ispn/1/",
+	    "iSPN_2": "$SNUDDA_DATA/ispn/2/",
+	    "iSPN_3": "$SNUDDA_DATA/ispn/3/",
+	    "iSPN_4": "$SNUDDA_DATA/ispn/4/",
+	    "iSPN_5": "$SNUDDA_DATA/ispn/5/",
+	    "iSPN_6": "$SNUDDA_DATA/ispn/6/",
+	    "iSPN_7": "$SNUDDA_DATA/ispn/7/",
+	    "iSPN_8": "$SNUDDA_DATA/ispn/8/",
+	    "iSPN_9": "$SNUDDA_DATA/ispn/9/",
+	    "iSPN_10": "$SNUDDA_DATA/ispn/10/",
+	    "iSPN_11": "$SNUDDA_DATA/ispn/11/",
+	    "iSPN_13": "$SNUDDA_DATA/ispn/13/",
+	    "iSPN_12": "$SNUDDA_DATA/ispn/12/",
+	    "iSPN_14": "$SNUDDA_DATA/ispn/14/",
+	    "iSPN_15": "$SNUDDA_DATA/ispn/15/",
+	    "iSPN_16": "$SNUDDA_DATA/ispn/16/",
+	    "iSPN_17": "$SNUDDA_DATA/ispn/17/",
+	    "iSPN_18": "$SNUDDA_DATA/ispn/18/",
+	    "iSPN_19": "$SNUDDA_DATA/ispn/19/",
+	    "iSPN_20": "$SNUDDA_DATA/ispn/20/",
+	    "iSPN_21": "$SNUDDA_DATA/ispn/21/",
+	    "iSPN_22": "$SNUDDA_DATA/ispn/22/",
+	    "iSPN_23": "$SNUDDA_DATA/ispn/23/",
+	    "iSPN_24": "$SNUDDA_DATA/ispn/24/",
+	    "iSPN_25": "$SNUDDA_DATA/ispn/25/",
+	    "iSPN_26": "$SNUDDA_DATA/ispn/26/",
+	    "iSPN_27": "$SNUDDA_DATA/ispn/27/",
+	    "iSPN_28": "$SNUDDA_DATA/ispn/28/",
+	    "iSPN_29": "$SNUDDA_DATA/ispn/29/",
+	    "iSPN_30": "$SNUDDA_DATA/ispn/30/",
+	    "iSPN_31": "$SNUDDA_DATA/ispn/31/",
+	    "iSPN_32": "$SNUDDA_DATA/ispn/32/",
+	    "iSPN_33": "$SNUDDA_DATA/ispn/33/",
+	    "iSPN_34": "$SNUDDA_DATA/ispn/34/",
+	    "iSPN_35": "$SNUDDA_DATA/ispn/35/"
+
+	},
+	
+        "neuron_type": "neuron",
+        "rotation_mode": "random",
+        "volume_id": "Striatum",
+	"stay_inside_mesh": false,
+        "fraction": 0.475
+    }
+}

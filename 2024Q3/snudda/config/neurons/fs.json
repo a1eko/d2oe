@@ -1,0 +1,15 @@
+{
+    "FS": {
+	"neuron_path": {
+	    "FS_0": "$SNUDDA_DATA/fs/0/",
+	    "FS_1": "$SNUDDA_DATA/fs/1/",
+	    "FS_2": "$SNUDDA_DATA/fs/2/",
+	    "FS_3": "$SNUDDA_DATA/fs/3/"
+	},
+        "neuron_type": "neuron",
+        "rotation_mode": "random",
+        "volume_id": "Striatum",
+	"stay_inside_mesh": false,
+        "fraction": 0.013
+    }
+}
